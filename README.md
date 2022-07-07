@@ -1,4 +1,4 @@
-# MARS-GN4 : Graph Neural Network for Network Neuroscience
+# GN4 : Graph Neural Network for Network Neuroscience
 ### Phase 1 : CS224W Study
 
 **Contributor: [박준하](https://github.com/hahajjjun) TBD**
